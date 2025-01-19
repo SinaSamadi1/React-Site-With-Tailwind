@@ -1,4 +1,4 @@
-import { BrowserRouter as Router, Route, Routes, Link } from 'react-router-dom'
+import { HashRouter as Router, Route, Routes } from 'react-router-dom'
 import NotFound from './components/notfound'
 import Shop from './components/shop'
 import Cart from './components/cart'
